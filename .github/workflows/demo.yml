@@ -25,3 +25,6 @@ jobs:
 
       - name: Run script
         run: python app.py
+
+      - name: need to run sample script
+        run: echo "This is hello world after the python script run"
